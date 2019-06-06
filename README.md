@@ -9,6 +9,3 @@ A game programming learning platform
 
 
 # 3D
-
-## Robot modelling
-https://youtu.be/vL6MPPn42SQ
